@@ -1,7 +1,21 @@
-# Analisa Data Perangkat Mobile
+# Analisis Demografi dan Pola Penggunaan Perangkat​ Android vs iOS
 
 Project Overview
-Menganalisa data mengenai penggunaan perangkat mobile antara Android dan iOS
+Latar Belakang​
+Latar belakang proyek ini adalah dominasi Android sebagai platform dengan pasar terbesar, berbanding terbalik dengan reputasi pengguna iOS yang dikenal loyal dan memiliki tingkat keterlibatan tinggi. Perbedaan yang signifikan ini menciptakan kebutuhan untuk menggali lebih dalam, bukan hanya sebatas jumlah, tetapi juga kualitas interaksi pengguna dengan perangkat mereka. Pemahaman ini sangat krusial bagi pengembang aplikasi, pemasar, dan bisnis yang ingin mengoptimalkan strategi mereka agar lebih tepat sasaran. Menganalisa data mengenai penggunaan perangkat mobile antara Android dan iOS
+
+Permasalahan Spesifik
+Permasalahan yang ingin dipecahkan melalui proyek ini adalah:​
+1. Mengetahui data pengguna mulai dari usia, jenis kelamin, hingga pola pemakaian​
+2. Mencari perbedaan dan perbandingan pasar Android dan iOS.​
+3. Menentukan Strategi pemasaran terbaik untuk setiap sistem operasi.​
+
+Pendekatan Analisis
+Untuk menjawab permasalahan sebelumnya, kami menggunakan pendekatan analitis yang terstruktur, yaitu:​
+1. Pengumpulan dan Kategorisasi Data: Mengumpulkan data penggunaan perangkat dari pengguna Android dan iOS. Data ini kemudian dikategorikan berdasarkan demografi (usia dan jenis kelamin), waktu penggunaan harian, konsumsi baterai, dan pemakaian paket data ​
+2. Analisis Perbandingan: Melakukan perbandingan mendalam antara kedua kelompok pengguna (Android vs. iOS) pada setiap metrik yang telah dikategorikan.​
+3. Identifikasi Pola dan Keterlibatan: Mengelompokkan pengguna berdasarkan pola penggunaan mereka untuk mengidentifikasi tingkat keterlibatan, mulai daripengguna pasif hingga pengguna yang sangat aktif.​
+4. Perumusan Rekomendasi Strategis: Berdasarkan temuan dan kesimpulan dari analisis, kami merumuskan rekomendasi praktis yang dapat digunakan untukmenyusun strategi pemasaran atau pengembangan produk yang lebih efektif, baik untuk platform Android maupun iOS.​
 
 Raw Dataset Link
 https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset/data
@@ -18,4 +32,4 @@ Insight and Findings
 9. Pengelompokan pengguna berdasarkan pola penggunaan pada Android tidak memiliki perbedaan yang signifikan, setiap kelas memiliki jumlah yang hampir sama. Sedangkan pada iOS untuk kelas 1 yang berarti penggunaan device yang sangat minim ,terhitung lebih sedikit dibandingkan kelas lainnya, menunjukkan bahwa pengguna iOS lebih aktif dalam menggunakan device nya untuk kegiatan sehari hari 
 
 AI Support Explanation
-AI membantu saya menggambarkan Chart yang berguna untuk analisa data saya, menghitung rata-rata data, membagi usia menjadi bebrapa kelas, menghitung rata-rata dengan pembagian tertentu, dan membandingkan kedua data
+AI membantu saya menggambarkan Chart yang berguna untuk analisa data saya, menghitung rata-rata data, membagi usia menjadi beberapa kelas, menghitung rata-rata dengan pembagian tertentu, dan membandingkan kedua data
